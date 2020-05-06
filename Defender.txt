@@ -1,0 +1,5 @@
+Kings, Defence, Drew Doughty, 94, 61, 34, 8, 26, 34, 0.56, 137, 0, 0, 1, 5.8, 16, 84, 103
+Canadiens, Defence, Shea Weber, 94, 62, 34, 14, 20, 34, 0.55, 148, 0, 0, 2, 9.5, 10, 128, 109
+Blackhawks, Defence, Duncan Keith, 93, 62, 14, 5, 37, 42, 0.68, 140, 1, 0, 0, 3.6, 22, 80, 21
+Wild, Defence, Ryan Suter, 93, 59, 22, 8, 25, 33, 0.56, 117, 0, 1, 2, 6.8, 34, 78, 63
+Senators, Defence, Erik Karlsson, 92, 60, 18, 10, 44, 54, 0.90, 150, 0, 0, 2, 6.7, 44, 161, 53

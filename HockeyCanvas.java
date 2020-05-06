@@ -1,0 +1,29 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import javax.swing.BorderFactory;
+import javax.swing.border.Border;
+import java.awt.geom.*;
+import java.awt.geom.Rectangle2D.Double;
+import java.awt.image.BufferedImage;
+
+public class HockeyCanvas extends JPanel
+{
+ public HockeyCanvas()
+ {
+  setSize(610, 380);
+ }
+
+ public void paintComponent (Graphics g)
+ {
+  Graphics2D g2 = (Graphics2D) g;
+  g2.clearRect(0, 0, 500, 500);
+  paintRink(g2);
+ }
+
+ public void paintRink(Graphics2D g2)
+ {
+  g2.drawImage(ImageLoader.loadImage("Rink.gif"), 0, 0, null);
+ }
+}

@@ -1,0 +1,3 @@
+team       pos       name        r, gp pim  g   a   p   P/G  shot ppg ppp otg sg sp shot% FO%
+team       pos       name      r, gp pim  g  a   p   P/G  shot ppg pp og sg sp  st% TA BS H
+team       pos       name        r  gp pim  sa   GA   SO   S%  GAA 

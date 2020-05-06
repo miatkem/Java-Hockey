@@ -1,0 +1,4 @@
+Canadiens, Goalie, Carey Price, 93, 47, 4, 1391, 113, 2, .919, 2.42
+Capitals, Goalie, Braden Holtby, 92, 46, 0, 1241, 89, 7, .928, 1.97
+Devils, Goalie, Cory Schneider, 92, 47, 0, 1396, 120, 2, .914, 2.64
+Predators, Goalie, Pekka Rinne, 90, 47, 4, 1228, 114, 2, .915, 2.52
